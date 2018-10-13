@@ -1,4 +1,57 @@
 
+.
+.
+.
+.
+
+
+
+Day 3,
+For the perceptron, here's some great resources:
+
+Textbooks:
+The Elements of Statistical Learning, Section 4.5.1
+Understanding Machine Learning: From Theory To Algorithms, Section 21.4
+
+Blogs:
+Jason Brownlee’s article on his Machine Learning Mastery blog, How To Implement The Perceptron Algorithm From Scratch In Python
+
+Sebastian Raschka’s blog post, Single-Layer Neural Networks and Gradient Descent
+Videos:
+Perceptron Training
+How the Perceptron Algorithm Works
+
+
+Conclusion
+Writing an algorithm from scratch can be a very rewarding experience. It’s a great way to gain a deeper understanding of the model, while building an impressive portfolio project at the same time.
+
+Remember to take it slow, and start with something simple. Most importantly, make sure to document and share your work.
+
+Bio: John Sullivan is the founder of the data science learning blog, DataOptimal. You can follow him on Twitter @DataOptimal.
+
+Related:
+
+Top /r/MachineLearning posts, August 2018: Everybody Dance Now; Stanford class Machine Learning cheat sheets; Academic Torrents for sharing enormous datasets
+Key Takeaways from KDD 2018: a Deconfounder, Machine Learning at Pinterest, Knowledge Graph
+Everything You Need to Know About AutoML and Neural Architecture Search
+
+
+
+https://www.kdnuggets.com/2018/09/6-steps-write-machine-learning-algorithm.html
+
+
+Day 4,
+Python 3 web coding
+
+https://repl.it/repls/ThriftyTalkativeClicks
+
+
+Day 5,
+http://python.kriadmin.me/
+Python Implementation of 30 seconds of code
+
+
+Day 6,
 what *is* a Neural Network? | Deep learning, chapter 1
 
 
@@ -8,6 +61,14 @@ https://youtu.be/AAO4oq2M_48
 
 and dwavesys.com
 Ising Model is sounds interesting!
+
+
+
+
+
+
+
+
 
 
 
